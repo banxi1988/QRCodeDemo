@@ -1,0 +1,10 @@
+PODS:
+  - QR-Code-Encoder-for-Objective-C (1.0.0)
+
+DEPENDENCIES:
+  - QR-Code-Encoder-for-Objective-C
+
+SPEC CHECKSUMS:
+  QR-Code-Encoder-for-Objective-C: 7b738fc1dc4b3f5f49e3fd841cbfd3da849b7f23
+
+COCOAPODS: 0.35.0
